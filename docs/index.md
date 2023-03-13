@@ -18,7 +18,7 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 
 <br>
 
-## Attending
+# Attending
 
   <b>When:</b> March 28th, 2023 (10:00 to 16:00)<br>
   <b>Where:</b> TU/e (Groene Loper 3, 5612 AE, Eindhoven) <br>
@@ -32,7 +32,7 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 
 <br>
 
-## Program
+# Program
 
 | Time | Speaker | Talk |
 |--:|:--|:--|
@@ -52,7 +52,7 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 
 <br>
 
-## Contact
+# Contact
 
 If you have any questions do not hesitate to contact us at <a href = "mailto: l.m.ochoa.venegas@tue.nl">l.m.ochoa.venegas&lt;at&gt;tue.nl</a>.
 

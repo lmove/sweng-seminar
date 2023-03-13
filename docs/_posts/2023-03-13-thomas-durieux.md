@@ -8,7 +8,7 @@ To know more about him, visit his [personal website](https://durieux.me/).
 
 <br>
 
-## Software Engineering for Docker
+### Software Engineering for Docker
 In this talk, Thomas Durieux will present his new research line on Software Engineering for Docker, with a focus on introducing automatic maintenance tasks in the Docker environment.
 He will introduce his first contribution in this research line, Parfum, a tool that can automatically fix Docker "smells".
 A demonstration of the tool can be found at https://durieux.me/docker-parfum/. Currently, Parfum can handle 32 Docker smells using template-based repair, AST transformation, and pretty print techniques.

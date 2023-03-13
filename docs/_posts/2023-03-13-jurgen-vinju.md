@@ -9,7 +9,7 @@ To know more about him, visit his [personal website](https://homepages.cwi.nl/~j
 
 <br>
 
-## Rascal Lab: Sustainable Research Software Infrastructure for Software Engineering
+### Rascal Lab: Sustainable Research Software Infrastructure for Software Engineering
 
 **Time:** 10:30-11:15 <br>
 **Related papers:** [Rascal: a Domain Specific Language for Source Code Analysis and

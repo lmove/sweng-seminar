@@ -8,6 +8,6 @@ To know more about her, visit her [personal website](https://kblincoe.github.io/
 
 <br>
 
-## Talk Title TBD
+### Talk Title TBD
 
 **Time:** 11:15-12:00
