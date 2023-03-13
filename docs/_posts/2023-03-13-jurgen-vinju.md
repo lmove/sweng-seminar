@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /jurgen-vinju/
 ---
 
 > Jurgen Vinju is the group leader of the Software Analysis and Transformation (SWAT) research group at CWI.

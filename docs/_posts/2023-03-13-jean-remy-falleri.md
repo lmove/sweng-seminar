@@ -1,8 +1,9 @@
 ---
 layout: post
+permalink: /jean-remy-falleri/
 ---
 
-> Jean-Rémy Falleri is a full professor at the Enseirb-Matmeca french engineering school and researcher 👨🏻‍🔬 at the LaBRI laboratory.
+> Jean-Rémy Falleri is a full professor at the Enseirb-Matmeca french engineering school and researcher at the LaBRI laboratory.
 He is also a junior member of the Institut Universitaire de France.
 His research focuses on studying software evolution and building tools to support it.
 He is one of the main developers behind GumTree.

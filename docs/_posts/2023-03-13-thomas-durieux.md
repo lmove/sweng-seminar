@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /thomas-durieux/
 ---
 
 > Thomas Durieux is an Assistant Professor at Delft University of Technology since June 2022, after completing his post-doc at KTH, Sweden, and INESC-id, Portugal.

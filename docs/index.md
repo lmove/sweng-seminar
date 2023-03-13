@@ -37,13 +37,13 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 | Time | Speaker | Talk |
 |--:|:--|:--|
 | 10:00-10:30 | **Welcome** | |
-| 10:30-11:15 | Jurgen Vinju | Rascal Lab: Sustainable Research Software Infrastructure for Software Engineering |
+| 10:30-11:15 | Jurgen Vinju | [Rascal Lab: Sustainable Research Software Infrastructure for Software Engineering](/jurgen-vinju/) |
 | 11:15-12:00 | Kelly Blincoe | |
 | 12:00-13:00 | **Lunch** | |
-| 13:00-13:45 | Thomas Durieux | Software Engineering for Docker |
-| 13:45-14:30 | Jean-Rémy Falleri | CiDiff - Pinpointing CI Differences in the Wild |
+| 13:00-13:45 | Thomas Durieux | [Software Engineering for Docker](/thomas-durieux/) |
+| 13:45-14:30 | Jean-Rémy Falleri | [CiDiff - Pinpointing CI Differences in the Wild](/jean-remy-falleri/) |
 | 14:30-14:45 | **Coffee break** | |
-| 14:45-15:30 | Tom Mens | The (R)Evolution of CI/CD on GitHub: Promises and Perils of the GitHub Actions Ecosystem</td>
+| 14:45-15:30 | Tom Mens | [The (R)Evolution of CI/CD on GitHub: Promises and Perils of the GitHub Actions Ecosystem](/tom-mens/)
 | 15:30-16:00 | Discussion and Q&amp;A | |
 
 <br>

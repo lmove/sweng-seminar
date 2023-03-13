@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /kelly-blincoe/
 ---
 
 > Kelly Blincoe is a Senior Lecturer of Software Engineering at the University of Auckland, New Zealand.
