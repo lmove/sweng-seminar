@@ -14,7 +14,7 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 
 <br>
 
----
+<hr style="color:#F0F0F0" />
 
 <br>
 
@@ -28,7 +28,7 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 
 <br>
 
----
+<hr style="color:#F0F0F0" />
 
 <br>
 
@@ -48,7 +48,7 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 
 <br>
 
----
+<hr style="color:#F0F0F0" />
 
 <br>
 
