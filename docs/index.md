@@ -11,6 +11,7 @@ layout: home
 <br>
 
 On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of software engineering. Experienced researchers coming from different countries and institutions will give a talk about their current work along the day. This is a great opportunity to learn from the speakers, discuss the latest research in our field, and plan for future collaborations. Lunch will also be included.
+
 <br>
 
 ---
@@ -54,8 +55,5 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 ## Contact
 
 If you have any questions do not hesitate to contact us at <a href = "mailto: l.m.ochoa.venegas@tue.nl">l.m.ochoa.venegas&lt;at&gt;tue.nl</a>.
-</p>
 
 <br>
-
----
