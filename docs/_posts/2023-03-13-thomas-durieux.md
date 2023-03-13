@@ -2,10 +2,11 @@
 layout: post
 ---
 
-# Thomas Durieux
 > Thomas Durieux is an Assistant Professor at Delft University of Technology since June 2022, after completing his post-doc at KTH, Sweden, and INESC-id, Portugal.
 His research focuses on automating software maintenance tasks such as program repair, software debloat, and improving the maintenance of Docker environments.
 To know more about him, visit his [personal website](https://durieux.me/).
+
+<br>
 
 ## Software Engineering for Docker
 In this talk, Thomas Durieux will present his new research line on Software Engineering for Docker, with a focus on introducing automatic maintenance tasks in the Docker environment.

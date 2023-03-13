@@ -2,12 +2,13 @@
 layout: post
 ---
 
-# Jean-Rémy Falleri
 > Jean-Rémy Falleri is a full professor at the Enseirb-Matmeca french engineering school and researcher 👨🏻‍🔬 at the LaBRI laboratory.
 He is also a junior member of the Institut Universitaire de France.
 His research focuses on studying software evolution and building tools to support it.
 He is one of the main developers behind GumTree.
 To know more about him, visit his [personal website](https://www.labri.fr/perso/falleri/perso/).
+
+<br>
 
 ## CiDiff - Pinpointing CI Differences in the Wild
 This talk presents an ongoing research project that targets the domain of understanding the differences between two CI jobs execution.
