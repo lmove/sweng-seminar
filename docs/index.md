@@ -38,7 +38,7 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 |:--|:--|:--|
 | 10:00-10:30 | **Welcome** | |
 | 10:30-11:15 | Jurgen Vinju | [Rascal Lab: Sustainable Research Software Infrastructure for Software Engineering](/sweng-seminar/jurgen-vinju/) |
-| 11:15-12:00 | Kelly Blincoe | [TBD](/sweng-seminar/kelly-blincoe/) |
+| 11:15-12:00 | Kelly Blincoe | [Software Ecosystems: A Socio-technical Perspective](/sweng-seminar/kelly-blincoe/) |
 | 12:00-13:00 | **Lunch** | |
 | 13:00-13:45 | Thomas Durieux | [Software Engineering for Docker](/sweng-seminar/thomas-durieux/) |
 | 13:45-14:30 | Jean-Rémy Falleri | [CiDiff - Pinpointing CI Differences in the Wild](/sweng-seminar/jean-remy-falleri/) |
