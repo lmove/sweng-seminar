@@ -22,7 +22,7 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 
   <b>When:</b> March 28th, 2023 (10:00 to 16:00)<br>
   <b>Where:</b> TU/e (Groene Loper 3, 5612 AE, Eindhoven) <br>
-  <b>Room:</b> TBD
+  <b>Room:</b> Vertigo 8.08
   <br>
   <p>Beware that previous <b>registration via the submitted form is required</b>. The registration closes on <b>March 20th, 2023</b>.</p>
 
