@@ -34,16 +34,16 @@ On Tuesday, March 28th, we will host at TU/e a one-day seminar in the context of
 
 # Program
 
-| Time | Speaker | Talk |
-|:--|:--|:--|
-| 10:00-10:30 | **Welcome** | |
-| 10:30-11:15 | Jurgen Vinju | [Rascal Lab: Sustainable Research Software Infrastructure for Software Engineering](/sweng-seminar/jurgen-vinju/) |
-| 11:15-12:00 | Kelly Blincoe | [Software Ecosystems: A Socio-technical Perspective](/sweng-seminar/kelly-blincoe/) |
-| 12:00-13:00 | **Lunch** | |
-| 13:00-13:45 | Thomas Durieux | [Software Engineering for Docker](/sweng-seminar/thomas-durieux/) |
-| 13:45-14:30 | Jean-Rémy Falleri | [CiDiff - Pinpointing CI Differences in the Wild](/sweng-seminar/jean-remy-falleri/) |
-| 14:30-14:45 | **Coffee break** | |
-| 14:45-15:30 | Tom Mens | [The (R)Evolution of CI/CD on GitHub: Promises and Perils of the GitHub Actions Ecosystem](/sweng-seminar/tom-mens/)
+| Time | Chair | Speaker | Talk |
+|:--|:--|:--|:--|
+| 10:00-10:30 | **Welcome** | | |
+| 10:30-11:15 | Nathan Cassee | Jurgen Vinju | [Rascal Lab: Sustainable Research Software Infrastructure for Software Engineering](/sweng-seminar/jurgen-vinju/) |
+| 11:15-12:00 | Nathan Cassee | Kelly Blincoe | [Software Ecosystems: A Socio-technical Perspective](/sweng-seminar/kelly-blincoe/) |
+| 12:00-13:00 | **Lunch** | | |
+| 13:00-13:45 | David Manrique | Thomas Durieux | [Software Engineering for Docker](/sweng-seminar/thomas-durieux/) |
+| 13:45-14:30 | David Manrique | Jean-Rémy Falleri | [CiDiff - Pinpointing CI Differences in the Wild](/sweng-seminar/jean-remy-falleri/) |
+| 14:30-14:45 | **Coffee break** | | |
+| 14:45-15:30 | Mazyar Seraj | Tom Mens | [The (R)Evolution of CI/CD on GitHub: Promises and Perils of the GitHub Actions Ecosystem](/sweng-seminar/tom-mens/)
 | 15:30-16:00 | Discussion and Q&amp;A | |
 
 <br>
